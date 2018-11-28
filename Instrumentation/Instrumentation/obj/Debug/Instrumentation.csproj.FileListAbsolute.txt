@@ -1,0 +1,6 @@
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\bin\Debug\Instrumentation.exe.config
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\bin\Debug\Instrumentation.exe
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\bin\Debug\Instrumentation.pdb
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\obj\Debug\Instrumentation.csproj.CoreCompileInputs.cache
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\obj\Debug\Instrumentation.exe
+C:\Users\Mikle\source\repos\Instrumentation\Instrumentation\obj\Debug\Instrumentation.pdb

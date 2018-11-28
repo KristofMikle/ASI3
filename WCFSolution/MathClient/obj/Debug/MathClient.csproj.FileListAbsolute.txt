@@ -1,0 +1,13 @@
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\obj\Debug\MathClient.csprojAssemblyReference.cache
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\obj\Debug\MathClient.csproj.CoreCompileInputs.cache
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathClient.exe.config
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathClient.exe
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathClient.pdb
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathServiceHost.exe
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathTypes.dll
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathServiceHost.pdb
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathServiceHost.exe.config
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\bin\Debug\MathTypes.pdb
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\obj\Debug\MathClient.csproj.CopyComplete
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\obj\Debug\MathClient.exe
+C:\Users\Mikle\source\repos\WCFSolution\MathClient\obj\Debug\MathClient.pdb

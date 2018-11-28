@@ -1,0 +1,6 @@
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\bin\Debug\MathTypes.dll
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\bin\Debug\MathTypes.pdb
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\obj\Debug\MathTypes.csprojAssemblyReference.cache
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\obj\Debug\MathTypes.csproj.CoreCompileInputs.cache
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\obj\Debug\MathTypes.dll
+C:\Users\Mikle\source\repos\WCFSolution\MathTypes\obj\Debug\MathTypes.pdb

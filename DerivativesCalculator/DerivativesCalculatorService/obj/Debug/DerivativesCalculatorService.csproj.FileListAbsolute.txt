@@ -1,0 +1,6 @@
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\bin\Debug\DerivativesCalculatorService.dll
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\bin\Debug\DerivativesCalculatorService.pdb
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\obj\Debug\DerivativesCalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\obj\Debug\DerivativesCalculatorService.dll
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\obj\Debug\DerivativesCalculatorService.pdb
+C:\Users\Mikle\source\repos\DerivativesCalculator\DerivativesCalculatorService\obj\Debug\DerivativesCalculatorService.csprojAssemblyReference.cache
